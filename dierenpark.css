@@ -5,8 +5,9 @@ html, body {
 
 
 body{
-    background-color:#525353  ;
+    background-color:black  ;
     font-family: sans-serif;
+    color: white;
 }
 
 nav {
@@ -35,4 +36,9 @@ h1{
 
 img{
     max-width:100% ;
+}
+footer{
+    background-color: rgb(177, 9, 244);
+    color: white;
+    padding: 10px 30px;
 }
