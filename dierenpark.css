@@ -1,0 +1,38 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color:#525353  ;
+    font-family: sans-serif;
+}
+
+nav {
+    background-color: rgb(177, 9, 244);
+    height: 39px;
+    }
+nav a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    width: 200px;
+    padding: 10px 20px;
+    float: left;
+    text-align: center;
+}
+nav a:hover{
+    background-color: green;
+}
+h1{
+    clear: both;
+    margin: 0;
+    padding: 30px;
+    background-color: #6AC0A0 ;
+    font-family: serif;
+}
+
+img{
+    max-width:100% ;
+}
